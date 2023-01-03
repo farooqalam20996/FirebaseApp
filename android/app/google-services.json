@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138079805330",
+    "project_id": "gravity-61504",
+    "storage_bucket": "gravity-61504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138079805330:android:46a7a7f4f391a7d78a6b4b",
+        "android_client_info": {
+          "package_name": "com.gravity.gravity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138079805330-oironlg43uphbp0jp664t8a4koherlbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANlb9mcnhPYQJ2IIpP-O6UJ-kCEfCecNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138079805330-oironlg43uphbp0jp664t8a4koherlbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
