@@ -56,7 +56,7 @@ const SignIn = () => {
                         color: "#fff",
                     }}
                 >
-                    Sign inb by farooq
+                    Sign in
                 </Text>
                 {/* <Image
                     source={require("../../assets/images/broxnbg.png")}
